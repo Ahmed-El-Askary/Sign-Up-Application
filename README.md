@@ -17,7 +17,10 @@
 > FetchRecord: Accepts a user ID and returns the corresponding user record.
 
 # Main Function:
-> Presents options to the user in an outer main loop: Add Record, Fetch Record, Quit.
+> Presents options to the user in an outer main loop:
+> 1. Add Record
+> 2. Fetch Record
+> 3. Quit.
 > Uses a switch statement to handle user input and perform actions accordingly.
 
 # Usage
