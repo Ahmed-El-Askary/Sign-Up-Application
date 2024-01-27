@@ -14,6 +14,7 @@
 
 # Functions:
 > AddRecord: Accepts name and age as parameters, creates a Person object, and adds it to the record vector.
+> 
 > FetchRecord: Accepts a user ID and returns the corresponding user record.
 
 # Main Function:
